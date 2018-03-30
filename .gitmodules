@@ -1,3 +1,6 @@
 [submodule "logToLogstash-lib"]
 	path = logToLogstash-lib
 	url = https://github.com/wouter-at-communitynetworkz/logToLogstash.git
+[submodule "libConsumer"]
+	path = libConsumer
+	url = https://github.com/wouter-at-communitynetworkz/libConsumer.git
