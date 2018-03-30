@@ -10,3 +10,5 @@
 rootProject.name = 'gradlesystem'
 
 include 'LogToLogstash-lib'
+
+include 'libConsumer'
